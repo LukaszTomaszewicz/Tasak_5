@@ -7,4 +7,3 @@
 using namespace std;
 
 void readFile(string path);
-void negate(File *f);

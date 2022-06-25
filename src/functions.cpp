@@ -23,3 +23,13 @@ struct PictureHeader {
     int biClrUsed;
     int biClrImportant;
 } Picture;
+
+void readFile(string path)
+{
+
+}
+
+void negate(File *f)
+{
+
+}
